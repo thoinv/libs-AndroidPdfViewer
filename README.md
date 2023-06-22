@@ -37,7 +37,7 @@ Licensed under Apache License 2.0.
 
 Add to _build.gradle_:
 
-`implementation 'com.github.thoinv:libs-AndroidPdfViewer:master-84fb733c54-1'`
+`implementation 'com.github.thoinv:libs-AndroidPdfViewer:master-SNAPSHOT'`
 
 or if you want to use more stable version:
  
